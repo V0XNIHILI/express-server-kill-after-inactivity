@@ -8,5 +8,4 @@ jspm_packages
 # Build output directories
 build
 
-# Temp dir from app
-tmp
+.DS_Store
