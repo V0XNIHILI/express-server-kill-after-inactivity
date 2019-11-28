@@ -1,0 +1,12 @@
+# package directories
+node_modules
+jspm_packages
+
+# Webpack directories
+.nodemon
+
+# Build output directories
+build
+
+# Temp dir from app
+tmp
